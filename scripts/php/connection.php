@@ -1,6 +1,6 @@
 <?php
 
-	$servername = "sing.hostbuddy.cloud";
+	$servername = "51.79.177.175";
 	
 	$username = "ovolisky_coursehelp";
 	
